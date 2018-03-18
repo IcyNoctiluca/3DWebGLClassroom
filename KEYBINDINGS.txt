@@ -1,0 +1,32 @@
+w		move camera in x direction
+s 		move camera back in x direction
+a		move camera in z direction
+d 		move camera back in z direction
+
+right arrow			look to right
+left arrow			look to left
+
+q		turn off/on light 1
+e		turn off/on light 2
+
+o		open the door a bit
+p 		close the door a bit
+
+1		move whiteboard cleaner up
+2		move whiteboard cleaner down
+3 		move whiteboard cleaner left
+4		move whiteboard cleaner right
+
+b		swing around in the teachers chair
+n		swing in the opposite direction
+
+5		move the movable chair in the x direction
+6		move the movable chair back in the x direction
+7		move the movable chair in the z direction
+8		move the movable chair back in the z direction
+
+9		swing back on the chair
+0		swing forward on the chair
+
+t		spin the chair
+y		spin in opposite direction
